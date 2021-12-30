@@ -6,7 +6,7 @@ A small chatbot for Twitch with big plans
 EN
 
 The initial information and changes to version 0.3.0 are in the file Changelog.txt.
-Files "Bold.cs", "Web Browser Win.xml" and "Web Browser Win.xaml.cs", "Form1.xml " and "Form1.xaml.cs" are not used in the project
+Files "DBold.cs", "WebBrowserWin.xaml" and "WebBrowserWin.xaml.cs", "Form1.xml " and "Form1.xaml.cs" are not used in the project
 
 RU
 
