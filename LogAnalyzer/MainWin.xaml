@@ -1,0 +1,54 @@
+﻿<Window 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LogAnalyzer"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:controlzex="urn:controlzex"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="LogAnalyzer.MainWin"
+        mc:Ignorable="d"
+        Title="Анализатор логов Twidibot" Height="502" Width="769" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Color x:Key="ColorForm_Dark">#FF333333</Color>
+        <Color x:Key="ColoCon_White">#DDE8E8E8</Color>
+    </Window.Resources>
+    <Window.BorderBrush>
+        <SolidColorBrush Color="{DynamicResource ColorForm_Dark}"/>
+    </Window.BorderBrush>
+    <Window.Foreground>
+        <SolidColorBrush Color="{DynamicResource ColoCon_White}"/>
+    </Window.Foreground>
+    <Window.Background>
+        <SolidColorBrush Color="{DynamicResource ColorForm_Dark}"/>
+    </Window.Background>
+
+    <Grid>
+        <Label Content="Выберите лог" Foreground="#DDE8E8E8" FontSize="14" Padding="4,2" Margin="80,10,0,0" HorizontalAlignment="Left" Width="100" Height="24" VerticalAlignment="Top"/>
+        <ListBox x:Name="lbLogsList" Margin="10,45,10,221" Background="#FF292929" Foreground="#DDE8E8E8" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="eLogsPath" Padding="2,1,2,1" TextWrapping="NoWrap" Height="27" Margin="185,10,10,0" Foreground="#DDE8E8E8" Background="#FF292929" CaretBrush="#FF8601F3" BorderBrush="#FFE37E16" materialDesign:HintAssist.Hint="Путь к логам" SelectionTextBrush="{x:Null}" ToolTipService.ShowOnDisabled="true" FontSize="12" UseLayoutRounding="False" VerticalAlignment="Top"/>
+        <TextBlock x:Name="lOut" Foreground="#DDE8E8E8" FontSize="14" Padding="4,2" Margin="10,0,10,10" Height="24" VerticalAlignment="Bottom" TextAlignment="Center"/>
+        <Button x:Name="bListUpdate" Content="Обновить" Margin="10,10,0,0" Background="#FFE37E16" BorderBrush="#FFE37E16" Foreground="#DDE8E8E8" Click="bListUpdate_Click" Padding="4,2" Height="24" FontSize="12" HorizontalAlignment="Left" Width="65" VerticalAlignment="Top"/>
+        <Button x:Name="bDel1" Content="Удалить лишнее из лога (тип 1)" Margin="10,0,0,176" Background="#FFE37E16" BorderBrush="#FFE37E16" Foreground="#DDE8E8E8" Click="bDel1_Click" Padding="4,2" Height="30" HorizontalAlignment="Left" Width="219" VerticalAlignment="Bottom">
+            <Button.ToolTip>
+                <ToolTip MinWidth="100" MaxWidth="1000">
+                    <TextBlock TextWrapping="Wrap" Text="Удаляет у принятых и отправленых на сокет сообщений: client-nonce, color, emotes, id, mod, room-id, subscriber, tmi-sent-ts, turbo, user-id, reply-parent-display-name, reply-parent-msg-body, reply-parent-msg-id (заменяется на this-msg-reply-parent;), reply-parent-user-id, reply-parent-user-login. Усекается тройное повторение логина отправителя. Полностью убирается пинг понг. Заменяется &quot;Принято на сокет:&quot; на &quot;&gt;&quot;, &quot;Отправлено на сокет:&quot; на &quot;&lt;&quot;"/>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <Button x:Name="bDel2" Content="Удалить лишнее из лога (тип 2)" Margin="10,0,0,130" Background="#FFE37E16" BorderBrush="#FFE37E16" Foreground="#DDE8E8E8" Click="bDel2_Click" Padding="4,2" Height="30" HorizontalAlignment="Left" Width="219" VerticalAlignment="Bottom">
+            <Button.ToolTip>
+                <ToolTip MinWidth="100" MaxWidth="1000">
+                    <TextBlock TextWrapping="Wrap" Text="Удаляет у принятых и отправленых на сокет сообщений: client-nonce, color, emotes, id, mod, room-id, subscriber, tmi-sent-ts, turbo, user-id, reply-parent-display-name, reply-parent-msg-body, reply-parent-msg-id (заменяется на this-msg-reply-parent;), reply-parent-user-id, reply-parent-user-login. Усекается тройное повторение логина отправителя. Полностью убирается пинг понг, join и part. Заменяется &quot;Принято на сокет:&quot; на &quot;&gt;&quot;, &quot;Отправлено на сокет:&quot; на &quot;&lt;&quot;"/>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <Button x:Name="bDel3" Content="Удалить лишнее из лога (тип 3)" Margin="10,0,0,85" Background="#FFE37E16" BorderBrush="#FFE37E16" Foreground="#DDE8E8E8" Click="bDel3_Click" Padding="4,2" Height="30" HorizontalAlignment="Left" Width="219" VerticalAlignment="Bottom">
+            <Button.ToolTip>
+                <ToolTip MinWidth="100" MaxWidth="1000">
+                    <TextBlock TextWrapping="Wrap" Text="Удаляет у принятых и отправленых на сокет сообщений: badge-info, badges, client-nonce, color, emotes, first-msg, flags, id, mod, room-id, subscriber, tmi-sent-ts, turbo, user-id, reply-parent-display-name, reply-parent-msg-body, reply-parent-msg-id (заменяется на this-msg-reply-parent;), reply-parent-user-id, reply-parent-user-login. Усекается тройное повторение логина отправителя. Полностью убирается пинг понг, join и part, имя канала (которое с решёткой). Заменяется &quot;Принято на сокет:&quot; на &quot;&gt;&quot;, &quot;Отправлено на сокет:&quot; на &quot;&lt;&quot;"/>
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+    </Grid>
+</Window>

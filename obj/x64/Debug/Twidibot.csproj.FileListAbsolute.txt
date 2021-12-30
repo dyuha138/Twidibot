@@ -1,0 +1,190 @@
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\twidibot.db
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Twidibot.exe.config
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Twidibot.exe
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Twidibot.pdb
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\ControlzEx.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\EntityFramework.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\EntityFramework.SqlServer.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Hardcodet.NotifyIcon.Wpf.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MahApps.Metro.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MaterialDesignColors.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MaterialDesignThemes.MahApps.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Microsoft.Win32.Registry.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Simple.Data.Ado.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Simple.Data.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\SQLitePCLRaw.core.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\SuperSocket.ClientEngine.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Buffers.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Data.SQLite.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Data.SQLite.EF6.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Data.SQLite.Linq.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Memory.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Numerics.Vectors.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Security.AccessControl.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Security.Principal.Windows.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\WebSocket4Net.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\ControlzEx.pdb
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\ControlzEx.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\EntityFramework.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\EntityFramework.SqlServer.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Hardcodet.NotifyIcon.Wpf.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MahApps.Metro.pdb
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MahApps.Metro.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MaterialDesignColors.pdb
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Microsoft.Win32.Registry.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Buffers.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Data.SQLite.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Memory.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Numerics.Vectors.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Security.AccessControl.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Security.Principal.Windows.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\bin\x64\Debug\de\MahApps.Metro.resources.dll
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.csproj.AssemblyReference.cache
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\BackWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\LoadWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\MainWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\AppSettings.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\Commands.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\DefCom.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\FuncCom.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\SpamMsg.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\Status.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\App.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot_MarkupCompile.cache
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot_MarkupCompile.lref
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\App.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\BackWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\LoadWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\MainWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\AppSettings.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\Commands.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\DefCom.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\FuncCom.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\SpamMsg.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Pages\Status.baml
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.g.resources
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.Properties.Resources.resources
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.csproj.GenerateResource.cache
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.csproj.CoreCompileInputs.cache
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.csproj.CopyComplete
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.exe
+F:\Творчество (в кавычках)\VS\Twidibot bak\Twidibot (0.2.0)\obj\x64\Debug\Twidibot.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\twidibot.db
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Twidibot.exe.config
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Twidibot.exe
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Twidibot.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\ControlzEx.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\EntityFramework.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\EntityFramework.SqlServer.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Hardcodet.NotifyIcon.Wpf.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MahApps.Metro.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MaterialDesignColors.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MaterialDesignThemes.MahApps.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Microsoft.Win32.Registry.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Simple.Data.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\SQLitePCLRaw.core.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\SuperSocket.ClientEngine.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Buffers.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Memory.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Numerics.Vectors.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Security.AccessControl.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Security.Principal.Windows.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\WebSocket4Net.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\ControlzEx.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\ControlzEx.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\EntityFramework.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\EntityFramework.SqlServer.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Hardcodet.NotifyIcon.Wpf.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MahApps.Metro.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MahApps.Metro.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MaterialDesignColors.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Microsoft.Win32.Registry.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Buffers.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Memory.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Numerics.Vectors.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Security.AccessControl.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Security.Principal.Windows.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\de\MahApps.Metro.resources.dll
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\AboutWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\BackWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\LoadWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\MainWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\AppSettings.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\Commands.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\DefCom.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\FuncCom.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\SpamMsg.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\Status.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\App.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot_MarkupCompile.cache
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot_MarkupCompile.lref
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\App.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\AboutWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\BackWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\LoadWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\MainWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\AppSettings.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\Commands.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\DefCom.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\FuncCom.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\SpamMsg.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\Status.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.g.resources
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.Properties.Resources.resources
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.csproj.GenerateResource.cache
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.csproj.CoreCompileInputs.cache
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.csproj.CopyComplete
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.exe
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot.csproj.AssemblyReference.cache
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Newtonsoft.Json.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Tiny.RestClient.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Newtonsoft.Json.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Tiny.RestClient.pdb
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\Tiny.RestClient.xml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\WebBrowserWin.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\WebBrowserWin.baml
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Twidibot_Content.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\runtimes\win-x86\native\e_sqlite3.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\runtimes\win-x64\native\e_sqlite3.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\runtimes\win-arm\native\e_sqlite3.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\sqlite3.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Data.SQLite.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Data.SQLite.EF6.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Data.SQLite.Linq.dll
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\System.Data.SQLite.xml
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\media\html\auth_err.html
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\media\html\auth_ok.html
+F:\Творчество (в кавычках)\VS\Twidibot\bin\x64\Debug\media\html\css.css
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\ChatHstr.g.cs
+F:\Творчество (в кавычках)\VS\Twidibot\obj\x64\Debug\Pages\ChatHstr.baml

@@ -1,0 +1,135 @@
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\TDH Bot.exe.config
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\TDH Bot.exe
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\TDH Bot.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot.csproj.AssemblyReference.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\App.g.cs
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot_MarkupCompile.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot_MarkupCompile.lref
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot.g.resources
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH_Bot.Properties.Resources.resources
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot.csproj.GenerateResource.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot.csproj.CoreCompileInputs.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot.exe
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\Form1.g.cs
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\ControlzEx.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MahApps.Metro.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MaterialDesignColors.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MaterialDesignThemes.MahApps.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\ControlzEx.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\ControlzEx.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MahApps.Metro.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MahApps.Metro.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MaterialDesignColors.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\App.baml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\Form1.baml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\obj\Debug\TDH Bot.csproj.CopyComplete
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\EntityFramework.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\EntityFramework.SqlServer.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\System.Data.SQLite.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\EntityFramework.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\EntityFramework.SqlServer.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\TDH Bot\bin\Debug\System.Data.SQLite.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\TDH Bot.exe.config
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\TDH Bot.exe
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\TDH Bot.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\ControlzEx.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\EntityFramework.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\EntityFramework.SqlServer.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MahApps.Metro.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MaterialDesignColors.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MaterialDesignThemes.MahApps.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\SuperSocket.ClientEngine.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\System.Data.SQLite.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\WebSocket4Net.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\ControlzEx.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\ControlzEx.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\EntityFramework.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\EntityFramework.SqlServer.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MahApps.Metro.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MahApps.Metro.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MaterialDesignColors.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\System.Data.SQLite.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\de\MahApps.Metro.resources.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.csproj.AssemblyReference.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\Form1.g.cs
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\App.g.cs
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot_MarkupCompile.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot_MarkupCompile.lref
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\App.baml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\Form1.baml
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.g.resources
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH_Bot.Properties.Resources.resources
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.csproj.GenerateResource.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.csproj.CoreCompileInputs.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.csproj.CopyComplete
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.exe
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\TDH Bot.exe.manifest
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\bin\Debug\TDH Bot.application
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.exe.manifest
+F:\Творчество (в кавычках)\VS\TDH Bot\wpf\websocket4net\TDH Bot\obj\Debug\TDH Bot.application
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\Form1.g.cs
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\App.g.cs
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot_MarkupCompile.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot_MarkupCompile.lref
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\App.baml
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\Form1.baml
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot.g.resources
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH_Bot.Properties.Resources.resources
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot.csproj.GenerateResource.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot.csproj.CoreCompileInputs.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot.exe
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\tdhbot.db
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\TDH Bot.exe.config
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\TDH Bot.exe
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\TDH Bot.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\ControlzEx.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\EntityFramework.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\EntityFramework.SqlServer.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MahApps.Metro.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MaterialDesignColors.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MaterialDesignThemes.MahApps.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\SuperSocket.ClientEngine.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\System.Data.SQLite.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\WebSocket4Net.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\ControlzEx.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\ControlzEx.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\EntityFramework.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\EntityFramework.SqlServer.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MahApps.Metro.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MahApps.Metro.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MaterialDesignColors.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\System.Data.SQLite.xml
+F:\Творчество (в кавычках)\VS\TDH Bot\bin\Debug\de\MahApps.Metro.resources.dll
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot.csproj.CopyComplete
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\TDH Bot.csproj.AssemblyReference.cache
+F:\Творчество (в кавычках)\VS\TDH Bot\obj\Debug\GeneratedInternalTypeHelper.g.cs

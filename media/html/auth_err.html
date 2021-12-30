@@ -1,0 +1,75 @@
+<HTML>
+	<HEAD>
+		<style>
+			* {
+			  -webkit-box-sizing: border-box; /* Совместимости с браузерами */
+				 -moz-box-sizing: border-box;
+					  box-sizing: border-box;
+			font-size: 18;
+
+			}
+			.mainbox {
+			  min-width: 50px; /* Минимальный размер окна (ну конечно браузер так не ограничишь, но пусть будет) */
+			  min-height: 50px;
+			  width: auto;
+			  height: auto;
+			  /*vertical-align: middle;
+			  align: middle;
+			  position: relative;*/
+			  text-align: center;
+			  /*margin: 30px auto; /* Отступ от каждого края элемента */
+			  /*padding: 20px; /* Расстояние от внутреннего края рамки элемента до воображаемого прямоугольника, ограничивающего его содержимое (текста) */
+			  /*border: solid 3px; /* Рамка */
+			  /*border-color: #9933FF; /* Цвета */
+			  /*background-color: white;*/
+			}
+			body {
+				background-image: url(img/bg.jpg); /* Путь к фоновому изображению */
+				background-attachment: fixed; /* Фиксируем фон веб-страницы */
+			}
+
+			.rezz {
+			display: none;
+			  -webkit-align-items: center;
+					  align-items: center;
+			  -webkit-justify-content: center;
+					  justify-content: center;
+			}
+
+			.tdef {
+				font-size: 20;
+				color: #E8E8E8;
+			}
+			.tdef2 {
+				font-size: 16;
+				color: #E8E8E8;
+			}
+			.tok {
+				font-size: 24;
+				color: #13C229;
+			}
+			.terr {
+				font-size: 24;
+				color: #F53300;
+			}
+		</style>
+		<!--<link rel="stylesheet" type="text/css" href="css.css">-->
+		<META charset="utf-8">
+		<TITLE>Twidibot - авторизация</TITLE>
+	</HEAD>
+	<BODY bgcolor=#33333>
+	
+		<div class="mainbox">
+			<div class="">
+				<br>
+				<span class="terr">Что-то пошло не так</span>
+				<br><br>
+				<span class="tdef">Полученные ошибки:</span>
+				<br>
+				<span id="0" class="tdef2"></span>
+				<br>
+			</div>
+		</div>
+	
+	</BODY>
+</HTML>
