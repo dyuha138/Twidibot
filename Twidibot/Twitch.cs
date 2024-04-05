@@ -65,7 +65,7 @@ namespace Twidibot {
 
 			// -- Данные авторизации --
 			private string Client_Id = "frnj4piu30ipfdkdfwz8i8zr1p990m";
-			private string Client_Secret = "odrmykw8nj2bwetdvbbzk4ecol9i1d";
+			private string Client_Secret = "";
 
 			public bool useDefToken = false;
 			public bool tokens_work = false;
