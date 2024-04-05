@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AboutWin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BackWin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoadWin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\AppSettings.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ChatHstr.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Commands.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\DefCom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\FuncCom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\SpamMsg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Status.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

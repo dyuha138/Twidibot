@@ -1,0 +1,30 @@
+﻿<Window 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TwidiTools"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:controlzex="urn:controlzex"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="TwidiTools.MainWin"
+        mc:Ignorable="d"
+        Title="Инструменты для Twidibot'а" Height="500" Width="500" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Color x:Key="ColorForm_Dark">#FF333333</Color>
+        <Color x:Key="ColoCon_White">#DDDDDA</Color>
+    </Window.Resources>
+    <Window.BorderBrush>
+        <SolidColorBrush Color="{DynamicResource ColorForm_Dark}"/>
+    </Window.BorderBrush>
+    <Window.Foreground>
+        <SolidColorBrush Color="{DynamicResource ColoCon_White}"/>
+    </Window.Foreground>
+    <Window.Background>
+        <SolidColorBrush Color="{DynamicResource ColorForm_Dark}"/>
+    </Window.Background>
+
+    <Grid>
+        <Button x:Name="bLogs" Content="Анализатор логов" Margin="100,44,100,0" Background="#E5801C" BorderBrush="#E5801C" Foreground="#DDDDDA" Click="bLog_Click" Padding="4,2" Height="36" Width="190" FontSize="20" VerticalAlignment="Top"/>
+        <Button x:Name="bdb" Content="Управление базой данных" Margin="111,113,111,0" Background="#E5801C" BorderBrush="#E5801C" Foreground="#DDDDDA" Click="bdb_Click" Padding="4,2" Height="36" Width="270" FontSize="20" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

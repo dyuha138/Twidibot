@@ -19,10 +19,10 @@ namespace Twidibot.Properties {
     // с помощью такого средства, как ResGen или Visual Studio.
     // Чтобы добавить или удалить член, измените файл .ResX и снова запустите ResGen
     // с параметром /str или перестройте свой проект VS.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace Twidibot.Properties {
         ///   Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Twidibot.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace Twidibot.Properties {
         ///   обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace Twidibot.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Byte[].
         /// </summary>
-        internal static byte[] Anime_Ace_v5 {
+        public static byte[] Anime_Ace_v5 {
             get {
                 object obj = ResourceManager.GetObject("Anime_Ace_v5", resourceCulture);
                 return ((byte[])(obj));
@@ -71,94 +71,12 @@ namespace Twidibot.Properties {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на &lt;HTML&gt;
-        ///	&lt;HEAD&gt;
-        ///		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css.css&quot; &gt;
-        ///		&lt;META charset=\&quot;utf-8\&quot;&gt;
-        ///		&lt;TITLE&gt;Twidibot - авторизация&lt;/TITLE&gt;
-        ///	&lt;/HEAD&gt;
-        ///	&lt;BODY bgcolor=#33333&gt;
-        ///	
-        ///		&lt;div class=&quot;mainbox&quot;&gt;
-        ///			&lt;div class=&quot;&quot;&gt;
-        ///				&lt;br&gt;
-        ///				&lt;span class=&quot;terr&quot;&gt;Что-то пошло не так&lt;/span&gt;
-        ///				&lt;br&gt;&lt;br&gt;
-        ///				&lt;span class=&quot;tdef&quot;&gt;Полученные ошибки:&lt;/span&gt;
-        ///				&lt;br&gt;
-        ///				&lt;span class=&quot;tdef2&quot;&gt;&lt;/span&gt;
-        ///				&lt;br&gt;
-        ///				&lt;span class=&quot;tdef3&quot;&gt;&lt;/span&gt;
-        ///				&lt;br&gt;
-        ///			&lt;/div&gt;
-        ///		&lt;/div&gt;
-        ///	
-        ///	&lt;/BODY&gt;
-        ///&lt;/HTML&gt;
-        ///.
-        /// </summary>
-        internal static string auth_err {
-            get {
-                return ResourceManager.GetString("auth_err", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Ищет локализованную строку, похожую на &lt;HTML&gt;
-        ///	&lt;HEAD&gt;
-        ///		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css.css&quot; &gt;
-        ///		&lt;META charset=\&quot;utf-8\&quot;&gt;
-        ///		&lt;TITLE&gt;Twidibot - авторизация&lt;/TITLE&gt;
-        ///	&lt;/HEAD&gt;
-        ///	&lt;BODY bgcolor=#33333&gt;
-        ///	
-        ///		&lt;div class=&quot;mainbox&quot;&gt;
-        ///			&lt;div class=&quot;&quot;&gt;
-        ///				&lt;br&gt;
-        ///				&lt;span class=&quot;tok&quot;&gt;Всё круто!&lt;/span&gt;
-        ///				&lt;br&gt;&lt;br&gt;
-        ///				&lt;span class=&quot;tdef&quot;&gt;Эту страничку можно закрыть&lt;/span&gt;
-        ///				&lt;br&gt;
-        ///			&lt;/div&gt;
-        ///		&lt;/div&gt;
-        ///	
-        ///	&lt;/BODY&gt;
-        ///&lt;/HTML&gt;
-        ///.
-        /// </summary>
-        internal static string auth_ok {
-            get {
-                return ResourceManager.GetString("auth_ok", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Поиск локализованного ресурса типа System.Byte[].
         /// </summary>
-        internal static byte[] avali_scratch {
+        public static byte[] avali_scratch {
             get {
                 object obj = ResourceManager.GetObject("avali_scratch", resourceCulture);
                 return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
-        /// </summary>
-        internal static System.Drawing.Icon bdel {
-            get {
-                object obj = ResourceManager.GetObject("bdel", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
-        /// </summary>
-        internal static System.Drawing.Icon bedit {
-            get {
-                object obj = ResourceManager.GetObject("bedit", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
             }
         }
         
@@ -182,39 +100,9 @@ namespace Twidibot.Properties {
         ///  /*margin: 30px auto; /* Отступ от каждого края элемента */
         ///  /*padding: 20px; / [остаток строки не уместился]&quot;;.
         /// </summary>
-        internal static string css {
+        public static string css {
             get {
                 return ResourceManager.GetString("css", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
-        /// </summary>
-        internal static System.Drawing.Icon eyed {
-            get {
-                object obj = ResourceManager.GetObject("eyed", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
-        /// </summary>
-        internal static System.Drawing.Icon eyew {
-            get {
-                object obj = ResourceManager.GetObject("eyew", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
-        /// </summary>
-        internal static System.Drawing.Icon Icon {
-            get {
-                object obj = ResourceManager.GetObject("Icon", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
             }
         }
     }

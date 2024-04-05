@@ -12,7 +12,7 @@ using System.Windows;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("dyuha138")]
 [assembly: AssemblyProduct("Twidibot")]
-[assembly: AssemblyCopyright("Copyright © dyuha138, 2021")]
+[assembly: AssemblyCopyright("Copyright © dyuha138, 2022")]
 [assembly: AssemblyTrademark("Twidibot")]
 [assembly: AssemblyCulture("")]
 
@@ -20,6 +20,7 @@ using System.Windows;
 // для компонентов COM. Если необходимо обратиться к типу в этой сборке через
 // из модели COM, установите атрибут ComVisible для этого типа в значение true.
 [assembly: ComVisible(false)]
+//[assembly: InternalsVisibleTo("OtherAssembly")]
 
 //Чтобы начать создание локализуемых приложений, задайте
 //<UICulture>CultureYouAreCodingWith</UICulture> в файле .csproj

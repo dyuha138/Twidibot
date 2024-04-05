@@ -121,31 +121,10 @@
   <data name="Anime_Ace_v5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\media\fonts\Anime Ace v5.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="auth_err" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\media\html\auth_err.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
-  <data name="auth_ok" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\media\html\auth_ok.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
   <data name="avali_scratch" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\media\fonts\avali-scratch.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="bdel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\media\img\bdel.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bedit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\media\img\bedit.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="css" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\media\html\css.css;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
-  <data name="eyed" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\media\img\eyed.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="eyew" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\media\img\eyew.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\media\img\Icon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
