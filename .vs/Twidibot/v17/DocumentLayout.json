@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|solutionrelative:twidibot\\backwin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|f:\\creations\\vs\\twidibot\\twidibot\\twitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|solutionrelative:twidibot\\twitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|f:\\creations\\vs\\twidibot\\twidibot\\chat_twh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|solutionrelative:twidibot\\chat_twh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|f:\\creations\\vs\\twidibot\\twidibot\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|solutionrelative:twidibot\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|f:\\creations\\vs\\twidibot\\twidibot\\vkpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|solutionrelative:twidibot\\vkpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|f:\\creations\\vs\\twidibot\\twidibot\\twitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|solutionrelative:twidibot\\twitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01D7802C-A838-43F2-A57E-5207F06B52F3}|Twidibot\\Twidibot.csproj|f:\\creations\\vs\\twidibot\\twidibot\\pages\\appsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,8 +54,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat_TWH.cs",
+              "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Chat_TWH.cs",
+              "RelativeDocumentMoniker": "Twidibot\\Chat_TWH.cs",
+              "ToolTip": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Chat_TWH.cs",
+              "RelativeToolTip": "Twidibot\\Chat_TWH.cs",
+              "ViewState": "AQIAADcBAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:35:45.813Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,26 +76,25 @@
               "RelativeDocumentMoniker": "Twidibot\\BackWin.xaml.cs",
               "ToolTip": "F:\\Creations\\VS\\Twidibot\\Twidibot\\BackWin.xaml.cs",
               "RelativeToolTip": "Twidibot\\BackWin.xaml.cs",
-              "ViewState": "AQIAANIAAAAAAAAAAAAIwN4AAAAuAAAA",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAQwLoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T15:02:49.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\App.xaml",
               "RelativeDocumentMoniker": "Twidibot\\App.xaml",
               "ToolTip": "F:\\Creations\\VS\\Twidibot\\Twidibot\\App.xaml",
               "RelativeToolTip": "Twidibot\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-05T14:50:02.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T14:50:02.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "VKPL.cs",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\VKPL.cs",
               "RelativeDocumentMoniker": "Twidibot\\VKPL.cs",
@@ -87,25 +102,23 @@
               "RelativeToolTip": "Twidibot\\VKPL.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAASwBQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:47:41.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T14:47:41.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Twitch.cs",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Twitch.cs",
               "RelativeDocumentMoniker": "Twidibot\\Twitch.cs",
               "ToolTip": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Twitch.cs",
               "RelativeToolTip": "Twidibot\\Twitch.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAASwBQAAAAdAAAA",
+              "ViewState": "AQIAAKECAAAAAAAAAAAkwK4CAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:47:36.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T14:47:36.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Status.xaml.cs",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Pages\\Status.xaml.cs",
               "RelativeDocumentMoniker": "Twidibot\\Pages\\Status.xaml.cs",
@@ -113,12 +126,11 @@
               "RelativeToolTip": "Twidibot\\Pages\\Status.xaml.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAASwAgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:47:01.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T14:47:01.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppSettings.xaml.cs",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Pages\\AppSettings.xaml.cs",
               "RelativeDocumentMoniker": "Twidibot\\Pages\\AppSettings.xaml.cs",
@@ -126,12 +138,11 @@
               "RelativeToolTip": "Twidibot\\Pages\\AppSettings.xaml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAASwAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:46:56.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T14:46:56.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DB.cs",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\DB.cs",
               "RelativeDocumentMoniker": "Twidibot\\DB.cs",
@@ -139,12 +150,11 @@
               "RelativeToolTip": "Twidibot\\DB.cs",
               "ViewState": "AQIAAHoAAAAAAAAAAAAjwH4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:46:47.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T14:46:47.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ChatFuncs.cs",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\ChatFuncs.cs",
               "RelativeDocumentMoniker": "Twidibot\\ChatFuncs.cs",
@@ -152,25 +162,23 @@
               "RelativeToolTip": "Twidibot\\ChatFuncs.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAArwA8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:46:19.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T14:46:19.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Twidibot",
+              "DocumentIndex": 9,
+              "Title": "Twidibot.csproj",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Twidibot.csproj",
               "RelativeDocumentMoniker": "Twidibot\\Twidibot.csproj",
               "ToolTip": "F:\\Creations\\VS\\Twidibot\\Twidibot\\Twidibot.csproj",
               "RelativeToolTip": "Twidibot\\Twidibot.csproj",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-05T13:52:57.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T13:52:57.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "F:\\Creations\\VS\\Twidibot\\Twidibot\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Twidibot\\MainWindow.xaml.cs",
@@ -178,8 +186,7 @@
               "RelativeToolTip": "Twidibot\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T13:52:09.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T13:52:09.239Z"
             }
           ]
         }

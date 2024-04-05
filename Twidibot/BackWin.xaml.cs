@@ -176,7 +176,7 @@ namespace Twidibot {
 					//Twitch.API.GetOAuthCode();
 				});
 			}
-			string oauthurl = Twitch.API.GetOAuthCode(true); // -- Т.к. пока нет выбора браузера, в каком запустить, будем узнавать ссылку на получения oauth через точку остановки
+			//string oauthurl = Twitch.API.GetOAuthCode(true); // -- Т.к. пока нет выбора браузера, в каком запустить, будем узнавать ссылку на получения oauth через точку остановки
 
 
 
